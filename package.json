@@ -1,0 +1,20 @@
+{
+  "name": "early-warning-grate-zbh26",
+  "productName": "early-warning-grate-zbh26",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "brand",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "@grpc/grpc-js": "1.8.4",
+    "@grpc/proto-loader": "0.7.4",
+    "grpc-js-reflection-client": "1.0.2"
+  },
+  "devDependencies": {
+    "electron": "22.0.3"
+  }
+}
