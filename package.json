@@ -1,6 +1,6 @@
 {
-  "name": "early-warning-grate-zbh26",
-  "productName": "early-warning-grate-zbh26",
+  "name": "oxidize",
+  "productName": "oxidize",
   "description": "My Electron application description",
   "keywords": [],
   "main": "./main.js",
@@ -9,11 +9,7 @@
   "scripts": {
     "start": "electron ."
   },
-  "dependencies": {
-    "@grpc/grpc-js": "1.8.4",
-    "@grpc/proto-loader": "0.7.4",
-    "grpc-js-reflection-client": "1.0.2"
-  },
+  "dependencies": {},
   "devDependencies": {
     "electron": "22.0.3"
   }
